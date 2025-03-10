@@ -1,0 +1,32 @@
+﻿  main.cpp
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(192,93): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(195,79): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(194,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(236,89): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(236,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(275,76): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(279,82): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(280,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(350,84): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(357,68): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(364,77): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(364,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(372,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(372,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(374,64): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(395,88): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(403,80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(406,83): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(406,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(428,84): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(431,130): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(433,89): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(433,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(454,88): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(464,94): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(469,96): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(469,73): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(482,99): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(540,19): warning C4101: "random_x": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\main.cpp(588,10): warning C4101: "text": lokalna zmienna, do której nie istnieje odwołanie
+  szablon2vs19.vcxproj -> C:\Users\Bartek\Desktop\prace\sem3\pp\spy hunter\x64\Debug\szablon2vs19.exe
